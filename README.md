@@ -1,7 +1,7 @@
 # dio-desafio-primeiro-
 Desafio de projeto git/github
 
-Receita  de bolo de laranja 
+Receita de bolo de laranja 
 
 Pré-aquecer o forno a 180 graus.
 
