@@ -1,9 +1,9 @@
 # dio-desafio-primeiro-
 Desafio de projeto git/github
 
-Receita  de bolo de laranja 
+Receita de bolo de laranja 
 
--Pré-aquecer o forno a 180 graus.
+Pré-aquecer o forno a 180 graus.
 
 INGREDIENTES
 4 ovos
@@ -27,4 +27,4 @@ MODO DE PREPARO
     sirva a gosto!
 
 
-    //ps: aos 25 minutos de fornada, baixar a temperatura para 160 graus para que o meio do bolo possa crescer de forma consistente. 
+ps: aos 25 minutos de fornada, baixar a temperatura para 160 graus para que o meio do bolo possa crescer de forma consistente. 
