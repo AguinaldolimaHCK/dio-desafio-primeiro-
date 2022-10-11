@@ -14,7 +14,7 @@ casca de 1 laranja
 
 MODO DE PREPARO
 
-1 Bata no liquidificador os ovos, o açúcar, o óleo, o suco e a casca da laranja.
+1 Bata no liquidificador (ou a mão) os ovos, o açúcar, o óleo, o suco e a casca da laranja.
 
 2 Passe para uma tigela e acrescente a farinha de trigo e o fermento.
 
@@ -22,4 +22,4 @@ MODO DE PREPARO
 
 4 Desenforme o bolo e molhe com suco de laranja.
 
-    
+    Sirva a gosto!
