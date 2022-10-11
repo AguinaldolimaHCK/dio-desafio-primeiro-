@@ -3,6 +3,8 @@ Desafio de projeto git/github
 
 Receita  de bolo de laranja 
 
+-Pré-aquecer o forno a 180 graus.
+
 INGREDIENTES
 4 ovos
 2 xícaras (chá) de açúcar
@@ -14,7 +16,7 @@ casca de 1 laranja
 
 MODO DE PREPARO
 
-1 Bata no liquidificador os ovos, o açúcar, o óleo, o suco e a casca da laranja.
+1 Bata no liquidificador ou a mão os ovos, o açúcar, o óleo, o suco e a casca da laranja.
 
 2 Passe para uma tigela e acrescente a farinha de trigo e o fermento.
 
@@ -22,4 +24,7 @@ MODO DE PREPARO
 
 4 Desenforme o bolo e molhe com suco de laranja.
 
-    
+    sirva a gosto!
+
+
+    //ps: aos 25 minutos de fornada, baixar a temperatura para 160 graus para que o meio do bolo possa crescer de forma consistente. 
